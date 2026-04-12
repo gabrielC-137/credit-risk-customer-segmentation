@@ -6,7 +6,7 @@ This directory contains the cleaned and transformed dataset used for analysis an
 
 ## File
 
-- **credit_processed_clusters.csv**
+- **credit_processed_clusters.xlsx**
 
 ---
 
